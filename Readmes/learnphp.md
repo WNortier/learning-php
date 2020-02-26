@@ -3,7 +3,7 @@
 *3 Separate PHP Logic from*
 *4 Understanding Arrays*
 
-# 1 Variables
+## 1 Variables
 Initialise a .php file
 Dollar sign before variables
 With double quotes you can interpret variables 
