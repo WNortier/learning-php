@@ -1,0 +1,1 @@
+PDO stands for php data objects 
