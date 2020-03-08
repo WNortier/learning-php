@@ -1,0 +1,1 @@
+Create a dedicated config file to hide your secret password
